@@ -9,9 +9,9 @@
 
 🚀 Passionate about software development, I enjoy crafting clean, efficient, and innovative solutions to real-world problems.
 
-🔍 Currently diving deep into machine learning, AI, and data science. Always eager to learn and share knowledge.
+🔍 Currently diving deep into machine learning, AI, and data science.
 
-💼 Open to collaboration on exciting projects and opportunities. Let's build something amazing together!
+💼 Open to collaboration on exciting projects and opportunities.
 
 📫 Reach out: **gigena.gonzalo@outlook.com**
 
